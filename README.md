@@ -1,1 +1,1 @@
-Test project for upgrade AGP.
+Test project for upgrading AGP.
