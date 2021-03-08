@@ -1,0 +1,4 @@
+include ':mylibrary'
+include ':myandroidlibrary'
+include ':app'
+rootProject.name = "AUATestProject"
